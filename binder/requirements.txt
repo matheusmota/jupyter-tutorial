@@ -65,7 +65,7 @@ pyzmq==17.1.2
 qtconsole==4.4.0
 quilt==2.9.10
 rdflib==4.2.2
-requests==2.19.1
+requests>=2.20.0
 rise==5.4.1
 SAS-kernel==2.1.7
 saspy==2.2.7
